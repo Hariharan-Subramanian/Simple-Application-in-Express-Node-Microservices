@@ -1,2 +1,2 @@
-# Simple-Application-in-Express-Node-Microservices
-Application created using Node JS, Express JS and Microserices
+# Seat-reservation---OOJS-Local-storage
+Seat reservation in OOJS and Local Storage
